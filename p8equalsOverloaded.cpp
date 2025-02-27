@@ -10,8 +10,8 @@ class Point{
             this->y = y;
         }
 
-        bool operator==(Point&other){
-            return  (x ==other.x &&y==other.y);
+        bool operator==(Point&p){
+            return  (x ==p.x &&y==p.y);
         }
 };
 

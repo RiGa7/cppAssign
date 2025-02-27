@@ -13,23 +13,18 @@ class student{
         void setName(string brand){
             this->name = brand;
         }
-
         void setAge(int age){
             this->age=age;
         }
-
         void setGrade(char grade){
             this->grade = grade;
         }
-
         string getName(){
             return this->name;
         }
-
         int getAge(){
             return this->age;
         }
-
         char getGrade(){
             return this->grade;
         }

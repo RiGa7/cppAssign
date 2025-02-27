@@ -32,7 +32,7 @@ public:
         cout<<"Destructor called"<<endl;
     }
 
-}car1("Ford", "mustand",2019);
+}car1("Ford", "mustang",2019);
 
     int main(){
         Car car("chervolet", "uva",2018);

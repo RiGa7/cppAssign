@@ -38,6 +38,4 @@ int main() {
 		return 0;
 		
 	cout<<"Result is "<<res;
-	
-
 }
